@@ -1,0 +1,15 @@
+{
+  "name": "Markov Machine",
+  "version": "1.0.0",
+  "description": "A Markov Machine random text generator.",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aimee Wildstone",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "html-to-text": "^7.1.1"
+  }
+}
